@@ -1,0 +1,1 @@
+sudo mount -a python3 /home/pi/pi_cam/convert_h264_to_mp4.py && mv /home/pi/Desktop/vids/*.mp4 /mnt/guptasnet/pi_cam
